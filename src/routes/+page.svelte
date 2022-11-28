@@ -4,7 +4,7 @@
 	import Input from '$lib/components/Input.svelte';
 	import Button from '../lib/components/Button.svelte';
 	import Textarea from '../lib/components/Textarea.svelte';
-    import Image from '../lib/components/Image.svelte';
+	import Image from '../lib/components/Image.svelte';
 	import '../styles/global.css';
 </script>
 
@@ -21,7 +21,7 @@
 		<Textarea placeholder="Lorem ipsum" />
 		<Button btnText="Send Story" />
 	</form>
-<Image imgSource='/book-stand.png'/>
+	<Image imgSource="/book-stand.png" />
 </section>
 
 <style>
@@ -48,7 +48,7 @@
 		form {
 			/* width: 15rem; */
 			gap: 0.2em;
-            margin-right: 0rem;
+			margin-right: 0rem;
 		}
 	}
 </style>
