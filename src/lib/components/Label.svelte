@@ -10,6 +10,7 @@ export let labelText;
 label{
     width: 80%;
     color: #FFFFFF;
+    font-size: 1rem;
 }
 
 </style>

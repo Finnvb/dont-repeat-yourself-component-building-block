@@ -12,4 +12,10 @@
         width: 80%;
         border: none;
     }
+
+    button:hover{
+        background-color: #FFFFFF;
+        color: #000000;
+        cursor: pointer;
+    }
 </style>

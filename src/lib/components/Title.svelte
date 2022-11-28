@@ -3,7 +3,7 @@
 
 <style>
     h2{
-        font-size: 1.5rem;
+        font-size: 2rem;
         color: #ffffff;
     }
 </style>
