@@ -8,6 +8,10 @@
 	import '../styles/global.css';
 </script>
 
+<svelte:head>
+	<title>Ilojo Bar - Form Component</title>
+</svelte:head>
+
 <section>
 	<form>
 		<Title />
