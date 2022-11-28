@@ -16,7 +16,7 @@
 		<Label labelName="email" labelText="Your email" />
 		<Input inputName="email" placeholder="johndoe@mail.com" />
 		<Label labelName="storytitle" labelText="Storytitle" />
-		<Input inputName="storytitle" placeholder="Awesome story" />
+		<Input inputName="storytitle" placeholder="Awesome story!" />
 		<Label labelName="content" labelText="Content" />
 		<Textarea placeholder="Lorem ipsum" />
 		<Button btnText="Send Story" />

@@ -2,7 +2,7 @@
 	export let placeholder;
 </script>
 
-<textarea name="content" id="content" cols="30" rows="10" {placeholder} />
+<textarea name="content" id="content" cols="30" rows="10" {placeholder} required />
 
 <style>
 	textarea {

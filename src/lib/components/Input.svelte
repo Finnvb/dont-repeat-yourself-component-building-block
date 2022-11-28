@@ -3,7 +3,7 @@
 	export let placeholder;
 </script>
 
-<input type="text" id={inputName} {placeholder} />
+<input type="text" id={inputName} {placeholder} required />
 
 <style>
 	input {
