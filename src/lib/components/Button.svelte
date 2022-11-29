@@ -9,8 +9,10 @@
 		padding: 1rem;
 		background-color: #000000;
 		color: #ffffff;
-		width: 80%;
+		width: 81%;
 		border: none;
+		margin: 1rem 0;
+        font-weight: bold;
 	}
 
 	button:hover {
